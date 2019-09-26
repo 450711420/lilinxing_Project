@@ -1,0 +1,6 @@
+1.terminal1
+    $ ./baxter.sh sim
+    $ roslaunch baxter_gazebo baxter_world.launch
+2.terminal2
+    $ ./baxter.sh sim
+    $ roslaunch baxter_sim_examples baxter_pick_and_place_demo.launch

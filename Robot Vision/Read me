@@ -1,0 +1,7 @@
+Operation sequence:
+
+$ ~/catkin_ws
+$ catkin_make
+$ source devel/setup.bash
+$ rosrun rosOpenCV rosOpenCV
+

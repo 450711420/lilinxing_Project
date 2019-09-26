@@ -1,0 +1,8 @@
+prefix=/home/lilinxing/catkin_ws/install
+
+Name: rosOpenCV
+Description: Description of rosOpenCV
+Version: 0.0.0
+Cflags: -I/home/lilinxing/catkin_ws/install/include
+Libs: -L/home/lilinxing/catkin_ws/install/lib 
+Requires: message_runtime
